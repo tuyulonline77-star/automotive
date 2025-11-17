@@ -1,0 +1,5 @@
+{
+  "name": "AutoPulse News",
+  "description": "A modern, responsive automotive news blog with an admin dashboard for content management. Features include light/dark mode, AI-powered article generation, and client-side data persistence.",
+  "requestFramePermissions": []
+}
